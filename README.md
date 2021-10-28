@@ -10,3 +10,7 @@ you can see that accept success in server
 7.TYPE BYE in server chat to end chat
 8.now you see client 1 closed 
 9.server now in accept state of second client
+second client now ready to receive inputs
+Type BYE in client 2 to end chat
+Type BYE in server .
+both server and client 2 closed
